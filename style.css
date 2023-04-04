@@ -8,8 +8,8 @@ font-size: 17px
 font-weight:lighter;
 }
 .img-circle {
-  border-radius: 50%;
-  width:100px;
+  border-radius: 30%;
+  width:10px;
   text-align: center;
   margin:auto;
   display: flex;
